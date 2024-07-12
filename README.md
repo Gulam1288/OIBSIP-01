@@ -24,7 +24,7 @@ Welcome to the Seat Reservation System! This project is a simple console-based J
     ```
 2. Navigate to the project directory:
     ```sh
-    cd OIBSIP
+    cd OIBSIP-01
     ```
 
 ## Usage
