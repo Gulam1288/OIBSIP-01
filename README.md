@@ -20,11 +20,11 @@ Welcome to the Seat Reservation System! This project is a simple console-based J
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/SeatReservationSystem.git
+    git clone https://github.com/gulam1288/OIBSIP-01.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd SeatReservationSystem
+    cd OIBSIP
     ```
 
 ## Usage
